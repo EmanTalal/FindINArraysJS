@@ -1,0 +1,2 @@
+# FindINArraysJS
+By using JavaScript 
